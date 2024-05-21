@@ -7,6 +7,14 @@ RM96792
 
 
 
+URLS PARA SEREM TESTADAS:
+http://localhost:8080/login
+http://localhost:8080/logout
+http://localhost:8080/home
+http://localhost:8080/cotacoes
+http://localhost:8080/adicionarCotacao
+
+
 
 
 
